@@ -1,5 +1,5 @@
 # thesis
-ADD FILES:
+ADD FILES: \n
 git add .
 git commit -m "Your descriptive commit message"
 git push origin main
