@@ -1,5 +1,3 @@
 # thesis
-ADD FILES:
-1. git add .
-2. git commit -m "Your descriptive commit message"
-3. git push origin main
+DATASETS AND BASELINE PAPER:
+https://drive.google.com/drive/folders/1E5jihrc3QptevTxCOhbM8dXc4XUsKbL7?usp=drive_link
